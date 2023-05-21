@@ -1,5 +1,6 @@
 #!/bin/bash
 #This script compares conditional arguments and checks which is greater
+#
 A=$1
 B=$2
 
