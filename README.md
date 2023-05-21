@@ -9,3 +9,6 @@ Shell Scripting learnings from Kodekloud and others
 ![image](https://github.com/SantoshKrishh/Kodekloud-Shell/assets/34834076/6798641c-11ce-4abf-bdab-24f9f5877f1a)
 
 
+Mutiple Conditional operaters statements examples 
+[ COND1 ] && [ COND2 ]  ---> To check is both the statements are true
+[ COND1 ] || [ COND2 ]  ---> To check if either of them are true
