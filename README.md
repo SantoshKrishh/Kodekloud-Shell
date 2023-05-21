@@ -4,7 +4,12 @@ Shell Scripting learnings from Kodekloud and others
 
 ![image](https://github.com/SantoshKrishh/Kodekloud-Shell/assets/34834076/9bbcee86-d47f-4c1d-a25f-71d9c01bd187)
 
-![image](https://github.com/SantoshKrishh/Kodekloud-Shell/assets/34834076/853dffec-72fd-4fc6-ac02-2cb2c0f1b7fd)
+![image](https://github.com/SantoshKrishh/Kodekloud-Shell/assets/34834076/4db75451-320f-4117-934c-feb5491d6a87)
+
+![image](https://github.com/SantoshKrishh/Kodekloud-Shell/assets/34834076/60b9294f-cd55-424f-aed7-a94fd464961f)
+
+![image](https://github.com/SantoshKrishh/Kodekloud-Shell/assets/34834076/4e664837-7f2f-4c43-9b09-e5321b800f44)
+
 
 
 Mutiple Conditional operaters statements examples  
