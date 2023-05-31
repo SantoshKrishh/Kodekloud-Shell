@@ -16,6 +16,9 @@ Shell Scripting learnings from Kodekloud and others
                                            
                                            OR
 ![image](https://github.com/SantoshKrishh/Kodekloud-Shell/assets/34834076/14864c2d-648d-4c36-b092-861e1e8145a5)
+
+![image](https://github.com/SantoshKrishh/Kodekloud-Shell/assets/34834076/a3d16b8c-7df1-4192-8ee3-c788ef83d6a7)
+
                                            
 
 
