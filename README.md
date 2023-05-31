@@ -10,6 +10,9 @@ Shell Scripting learnings from Kodekloud and others
 
 ![image](https://github.com/SantoshKrishh/Kodekloud-Shell/assets/34834076/4e664837-7f2f-4c43-9b09-e5321b800f44)
 
+image.png
+
+
 
 
 Mutiple Conditional operaters statements examples  
