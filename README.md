@@ -10,7 +10,7 @@ Shell Scripting learnings from Kodekloud and others
 
 ![image](https://github.com/SantoshKrishh/Kodekloud-Shell/assets/34834076/4e664837-7f2f-4c43-9b09-e5321b800f44)
 
-image.png
+![image](https://github.com/SantoshKrishh/Kodekloud-Shell/assets/34834076/373c128f-7b01-4582-8c5f-6304d87934ba)
 
 
 
